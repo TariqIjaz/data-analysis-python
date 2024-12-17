@@ -1,9 +1,9 @@
 📊 Data Analysis Projects Using Python
-Welcome to my Data Analysis Repository! This collection features five data analysis projects on different topics, performed using Python and Jupyter Notebooks. The goal is to analyze real-world datasets, extract insights, and present findings through Exploratory Data Analysis (EDA).
+Welcome to my Data Analysis Repository! This collection features five data analysis projects on different topics, performed using Python and Jupyter Notebooks. 
+The goal is to analyze real-world datasets, extract insights, and present findings through Exploratory Data Analysis (EDA).
 
 📂 Projects
 Ecommerce Analysis
-
 Analyze customer behavior, sales trends, and performance in an ecommerce dataset.
 Tools Used: Pandas, Seaborn, Matplotlib
 Hotel Booking Analysis
